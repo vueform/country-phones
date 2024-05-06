@@ -1,6 +1,6 @@
 const us = '{+}0 (000) 000-0000'
 
-export default [
+module.exports = [
   {
     // "country": "Afghanistan",
     "c": "AF",
