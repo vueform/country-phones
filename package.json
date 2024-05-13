@@ -1,6 +1,6 @@
 {
   "name": "@vueform/country-phones",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "SEE LICENSE IN LICENSE",
   "author": "Adam Berecz",
   "main": "./index.js",
